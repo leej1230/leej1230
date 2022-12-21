@@ -18,6 +18,6 @@ I am a student at UC Davis majoring in Computer Science and Engineering. I activ
 ### Contact 📡
 <p align="left">
     <a href="mailto:jwplee&#64;ucdavis.edu"><img src="./gmail.svg" alt="gmaillink"></a>
-    <a href="https://www.linkedin.com/in/jaewoolee1230/"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedinlink"></a>
-    <a href="https://github.com/leej1230"><img src="https://skillicons.dev/icons?i=github" alt="githublink"></a>
+    <a href="https://www.linkedin.com/in/jaewoolee1230/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedinlink"></a>
+    <a href="https://github.com/leej1230" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="githublink"></a>
 </p>

@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a student at UC Davis majoring in Computer Science and Engineering. I actively seek out opportunities to explore my interests and discover potential career paths. In my free time, I solve leetcode questions or work on my personal projects. My current interest is on backend.
-## About Jaewoo
+## About Jaewoo 🔍
 ### Languages/Tools 💻
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,cpp,flask,git,github,go,processing,py,pytorch,tensorflow,vscode,autocad,latex&perline=5&theme=light)](https://skillicons.dev)
 

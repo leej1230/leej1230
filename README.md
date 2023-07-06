@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a student at UC Davis majoring in Computer Science and Engineering. I actively seek out opportunities to explore my interests and discover potential career paths. In my free time, I solve leetcode questions or work on my personal projects. My current interest is on backend.
+I am an unemployed passionate programmer who majored CS at UC Davis 2020-2023. I actively seek out opportunities to explore my interests and discover potential career paths. In my free time, I solve leetcode questions or work on my personal projects. My current interest is on backend.
 ## About Me 🔍
 ### Languages/Tools 💻
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,cpp,flask,git,github,go,processing,py,pytorch,tensorflow,vscode,react,nodejs,flutter,autocad,latex&perline=5&theme=light)](https://skillicons.dev)
